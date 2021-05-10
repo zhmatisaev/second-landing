@@ -1,0 +1,66 @@
+.container {
+  text-align: center;
+  background: #ff4656;
+  width: 100%;
+}
+.header {
+  background: #1f2326;
+  display: flex;
+  color: aliceblue;
+  height: 70px;
+}
+.header_img {
+  width: 20px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-left: 200px;
+}
+.h_text {
+  padding-top: 10px;
+  margin: 0;
+}
+.logo {
+  padding-top: 15px;
+  padding-left: 30px;
+  width: 30px;
+  height: 30px;
+}
+.content {
+  display: flex;
+  padding-top: 15px;
+}
+.all_img {
+  width: 150px;
+  height: 300px;
+  padding-right: 30px;
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+.agents {
+  width: 50px;
+  height: 300px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+}
+
+.text ul {
+  list-style: none;
+  display: flex;
+  font-size: 12px;
+}
+.text ul li {
+  width: 110px;
+  font-size: 16px;
+}
+.img3 {
+  padding-right: 30px;
+  width: 300px;
+  height: 120px;
+}
+.img4 {
+  width: 100px;
+  height: 120px;
+}
+.footer {
+  height: 50px;
+}
